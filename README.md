@@ -36,7 +36,7 @@ docker run -d --name=maxkb -p 8080:8080 -v ~/.maxkb:/var/lib/postgresql/data cr2
 -   [演示视频](https://www.bilibili.com/video/BV1BE421M7YM/)
 -   [论坛求助](https://bbs.fit2cloud.com/c/mk/11)
 -   技术交流群     
-      <image height="150px" width="150px" src="https://github.com/1Panel-dev/MaxKB/assets/52996290/a083d214-02be-4178-a1db-4f428124153a"/>
+      <image height="150px"  width="150px" src="https://github.com/1Panel-dev/MaxKB/assets/52996290/a083d214-02be-4178-a1db-4f428124153a"/>
      
 
 
